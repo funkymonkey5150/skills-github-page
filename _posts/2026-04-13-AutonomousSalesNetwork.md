@@ -1,4 +1,4 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "AutonomousSalesNetwork"
+date: 2026-04-13
 ---
